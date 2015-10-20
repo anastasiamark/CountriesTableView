@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  CountriesTableView
+
+  Created by Mark on 19.10.15.
+  Copyright © 2015 ThinkMobiles. All rights reserved.
+*/
+
+"Ukraine" = "Україна";
+"United Kingdom" = "Об'єднане Королівство";
+"Germany" = "Німеччина";
+"Turkey" = "Туреччина";
+"China" = "Китай";
+"India" = "Індія";
+"USA" = "США";
+"Mexico" = "Мексика";
+"Costa Rica" = "Коста-Ріка";
+"Australia" = "Австралія";
+"New Zealand" = "Нова Зеландія";
